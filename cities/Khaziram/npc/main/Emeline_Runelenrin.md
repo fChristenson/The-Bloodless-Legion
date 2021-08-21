@@ -56,3 +56,5 @@ She is being blackmailed into challenging a PC to a duel to the death.
 ## Notes
 
 Currently out on a trade mission further north, to the village of Algan
+
+[back](../../../../story.md)

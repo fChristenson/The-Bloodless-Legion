@@ -37,6 +37,6 @@ The shopkeeper is a short female elf named Ellaloth. She will purchase monster t
 
 ## Notes
 
-- [Althalos Cromwell](../../../Althalos_Cromwell.md) works part time in the shop
+- [Althalos Cromwell](../npc/main/Althalos_Cromwell.md) works part time in the shop
 
 [back](../Khaziram.md)

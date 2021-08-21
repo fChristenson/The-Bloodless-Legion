@@ -7,8 +7,8 @@ An evil organisation plans to weaken the city by unleashing a plague upon it's c
 ## Secrets
 
 - People are turning in to https://www.dndbeyond.com/monsters?filter-type=0&filter-search=Myco&filter-cr-min=&filter-cr-max=&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=
-- [Eahtadan Runelenrin](./Eahtadan_Runelenrin.md) is having an affair with [Fay Cromwell](./Fay_Cromwell.md)
-- [Geoffrey Cromwell](./Geoffrey_Cromwell.md) is living as an undead under his statue
+- [Eahtadan Runelenrin](./cities/Khaziram/npc/main/Eahtadan_Runelenrin.md) is having an affair with [Fay Cromwell](./cities/Khaziram/npc/main/Fay_Cromwell.md)
+- [Geoffrey Cromwell](./cities/Khaziram/npc/main/Geoffrey_Cromwell.md) is living as an undead under his statue
 
 ## Stage
 
@@ -16,12 +16,12 @@ An evil organisation plans to weaken the city by unleashing a plague upon it's c
 
 ## Main characters
 
-- Althalos love interest - [Ella Hillless](./Ella_Hillless.md)
-- Quest giver - [Eahtadan Runelenrin](./Eahtadan_Runelenrin.md)
+- Althalos love interest - [Ella Hillless](./cities/Khaziram/npc/main/Ella_Hillless.md)
+- Quest giver - [Eahtadan Runelenrin](./cities/Khaziram/npc/main/Eahtadan_Runelenrin.md)
 
 ## Villain
 
-- Evil Wizard - [Althalos Cromwell](./Althalos_Cromwell.md)
+- Evil Wizard - [Althalos Cromwell](./cities/Khaziram/npc/main/Althalos_Cromwell.md)
 
 ## Boss battle
 
@@ -31,10 +31,10 @@ An evil organisation plans to weaken the city by unleashing a plague upon it's c
 
 ## Solutions
 
-- Encounter [Althalos Cromwell](./Althalos_Cromwell.md) at night by the river when he drops spores in the river
-- Encounter [Althalos Cromwell](./Althalos_Cromwell.md) at lunch when he drops spores in the well
+- Encounter [Althalos Cromwell](./cities/Khaziram/npc/main/Althalos_Cromwell.md) at night by the river when he drops spores in the river
+- Encounter [Althalos Cromwell](./cities/Khaziram/npc/main/Althalos_Cromwell.md) at lunch when he drops spores in the well
 - Find the cave by hearing a rumor
-- Find the cave by asking [Ella Hillless](./Ella_Hillless.md) about where [Althalos Cromwell](./Althalos_Cromwell.md) likes to camp
+- Find the cave by asking [Ella Hillless](./cities/Khaziram/npc/main/Ella_Hillless.md) about where [Althalos Cromwell](./cities/Khaziram/npc/main/Althalos_Cromwell.md) likes to camp
 - Find the cave by chance
 
 ## Intro

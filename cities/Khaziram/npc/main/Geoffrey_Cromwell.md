@@ -60,4 +60,4 @@ He lives on as an undead in his tomb.
 
 https://www.dndbeyond.com/monsters/lich
 
-[back](./story.md)
+[back](../../../../story.md)
