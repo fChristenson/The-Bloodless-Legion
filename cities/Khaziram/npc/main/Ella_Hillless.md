@@ -62,4 +62,6 @@ She is spying the players on behalf of an organization of dragonborns.
 She was in love with [Althalos Cromwell](./Althalos_Cromwell.md) but recently he started pushing her to giving up her faith and run away with him.
 She finally had enough and broke up with him.
 
+Ella lives with [Cedric Crewe](Cedric_Crewe.md) in the chapel.
+
 [back](../../../../story.md)

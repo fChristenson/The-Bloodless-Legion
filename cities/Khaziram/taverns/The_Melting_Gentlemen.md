@@ -6,7 +6,7 @@ In a theater quarter, surrounded by dead-end alleys and makeshift stages. The st
 
 ## Description
 
-The inn is a single storey stone-walled building, with a small fenced yard and well-made wooden tables and chairs. Accomodations consist of wooden cots near the hearth.
+The inn is a two storey stone-walled building, with a small fenced yard and well-made wooden tables and chairs. Accomodations consist of wooden 2 small rooms with cots near the hearth.
 
 ## Owner
 

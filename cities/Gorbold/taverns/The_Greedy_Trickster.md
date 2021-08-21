@@ -4,7 +4,7 @@
 It stands next to the hanfull of houses in the hamlet.
 
 ## Description	
-The inn is a two storey building of half-timbered walls, with several leaded glass windows and a smooth stone floor. Accomodations consist of a few small rooms with beds and straw mattresses.
+The inn is a two storey building of half-timbered walls, with several leaded glass windows and a smooth stone floor. Accomodations consist of 2 small rooms with beds and straw mattresses.
 
 ## Innkeeper	
 The innkeeper is a short female dwarf named Ahaz.

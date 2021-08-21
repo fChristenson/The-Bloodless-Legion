@@ -6,7 +6,7 @@ On Gold Way, in a university quarter of great libraries and enlightened philosph
 
 ## Description
 
-The inn is a two-storey building of half-timbered walls, with a slate roof. A collection of exotic drinking vessels rests upon a long shelf. Accomodations consist of several small rooms with beds and woolen mattresses.
+The inn is a two-storey building of half-timbered walls, with a slate roof. A collection of exotic drinking vessels rests upon a long shelf. Accomodations consist of 5 large rooms with beds and woolen mattresses.
 
 ## Owner
 
