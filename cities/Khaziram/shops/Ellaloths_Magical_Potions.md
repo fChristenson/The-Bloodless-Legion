@@ -35,4 +35,8 @@ The shopkeeper is a short female elf named Ellaloth. She will purchase monster t
 - Potion of Superior Healing (rare, dmg 187)
   This bronze tincture smells acidic. (500gp)
 
+## Notes
+
+- [Althalos Cromwell](../../../Althalos_Cromwell.md) works part time in the shop
+
 [back](../Khaziram.md)

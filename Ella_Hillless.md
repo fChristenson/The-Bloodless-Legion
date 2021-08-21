@@ -57,4 +57,9 @@ Evil 0 Chaotic 3
 
 She is spying the players on behalf of an organization of dragonborns.
 
+## Notes
+
+She was in love with [Althalos Cromwell](./Althalos_Cromwell.md) but recently he started pushing her to giving up her faith and run away with him.
+She finally had enough and broke up with him.
+
 [back](./story.md)

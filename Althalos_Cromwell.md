@@ -53,4 +53,11 @@ Evil 12 Chaotic 3
 
 He is obsessed with a nearby cavern with amazing waterfalls.
 
+## Notes
+
+Recently got dumped by [Ella Hillless](./Ella_Hillless.md) and is heartbroken.
+He sometimes camps at a cave close to a waterfall when he wants to think.
+One day he heard a strange voice in his head, went inside the cave and met a strange mushroom creature.
+The creature promised that if he helped it spread it's seeds it would convince his love to get back together with him.
+
 [back](./story.md)
