@@ -10,8 +10,9 @@ An evil organisation plans to weaken the city by unleashing a plague upon it's c
 - [Eahtadan Runelenrin](./cities/Khaziram/npc/main/Eahtadan_Runelenrin.md) is having an affair with [Fay Cromwell](./cities/Khaziram/npc/main/Fay_Cromwell.md)
 - [Geoffrey Cromwell](./cities/Khaziram/npc/main/Geoffrey_Cromwell.md) is living as an undead under his statue
 
-## Stage
+## Scene
 
+- Season: Fall
 - [Khaziram](./cities/Khaziram/Khaziram.md)
 
 ## Main characters
@@ -23,11 +24,9 @@ An evil organisation plans to weaken the city by unleashing a plague upon it's c
 
 - Evil Wizard - [Althalos Cromwell](./cities/Khaziram/npc/main/Althalos_Cromwell.md)
 
-## Boss battle
+## Boss battle's
 
-- 1 x https://www.dndbeyond.com/monsters/yestabrod
-- 3 x https://www.dndbeyond.com/monsters/spined-devil
-- 2 x https://www.dndbeyond.com/monsters/giant-boar
+- [Final boss](./battles/Khaziram_boss.md)
 
 ## Solutions
 
@@ -46,3 +45,7 @@ Staden heter Khaziram och ligger ett par dagar bort.
 
 Belöningen är 25 000 gp per person men ni måste komma fort.
 Andra äventyrare är redan på väg och det är först till kvarn som gäller.
+
+## Start location
+
+[Gorbold](cities/Gorbold/Gorbold.md)

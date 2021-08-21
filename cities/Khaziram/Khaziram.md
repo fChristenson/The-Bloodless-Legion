@@ -8,6 +8,19 @@ Approximately 1100; mixed human and dwarf.
 
 Khaziram is governed by a consortium of wealthy merchants, known as the [Gray Ministry](./Gray_Ministry.md).
 
+## Description
+
+Forged on the lowest point of a lake, the town of Khaziram is home to people lead by the Gray Ministry.
+This town wasn't built by a lake by accident, as it has a dark history, which is of great importance to the people of Khaziram and its success.
+
+The town itself looks sublime. With its ironwood rooftops, oak wood walls and breathtaking waterfall, Khaziram has a mystical atmosphere.
+The main attraction is the market, which was built 26 years ago and designed by the Gray Ministry.
+
+Khaziram has a booming economy, which is mainly supported by jewelcrafting, tailoring and smithing. But their biggest strengths are rare animal training and sophisticated cooking.
+However, Khaziram lacks people skilled in hunting.
+
+Despite its strengths and weaknesses, Khaziram is most likely headed towards a affluent future under the leadership of the Gray Ministry. But this remains to be seen.
+
 ## Notable places
 
 - 1 Cave with waterfall (Boss battle)
@@ -40,7 +53,6 @@ Khaziram is governed by a consortium of wealthy merchants, known as the [Gray Mi
 
 ## Weather
 
-- Season: Fall
 - Description: Windy
 - Temperature: Moderate
 - High: 71°F (21°C)
