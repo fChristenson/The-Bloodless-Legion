@@ -20,8 +20,8 @@ The innkeeper is a gullible male elf named Genne.
 - Stewed Carrot, Mug of Perry (3 cp)
 - Spelt Porridge, Mug of Stout (3 cp)
 
-![map](The_Melting_Gentlemen.png)
-![map 2](The_Melting_Gentlemen_floor2.png)
+![map](./images/The_Melting_Gentlemen.png)
+![map 2](./images/The_Melting_Gentlemen_floor2.png)
 
 ## Patrons
 

@@ -25,7 +25,7 @@ Despite its strengths and weaknesses, Khaziram is most likely headed towards a a
 
 - 1 Cave with waterfall (Boss battle)
 - 2 The house of [Fay Cromwell](./npc/main/Fay_Cromwell.md)
-- 3 [Chapel](chapel.png) where [Ella Hillless](./npc/main/Ella_Hillless.md) lives
+- 3 [Chapel](./images/chapel.png) where [Ella Hillless](./npc/main/Ella_Hillless.md) lives
 - 4 [Gray Ministry](./Gray_Ministry.md)
 - 5 [The Melting Gentlemen](./taverns/The_Melting_Gentlemen.md)
 - 6 A statue of crystal, said to entomb the undead corpse of a necromancer. [Althalos Cromwell](./npc/main/Althalos_Cromwell.md) father [Geoffrey Cromwell](./npc/main/Geoffrey_Cromwell.md)
@@ -49,7 +49,7 @@ Despite its strengths and weaknesses, Khaziram is most likely headed towards a a
 
 ## Map
 
-![map](./Khaziram.png)
+![map](./images/Khaziram.png)
 
 ## Weather
 

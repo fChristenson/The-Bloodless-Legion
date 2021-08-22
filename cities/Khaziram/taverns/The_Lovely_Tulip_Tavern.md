@@ -17,8 +17,8 @@ The innkeeper is a charming female halfling named Samay Roper. She was once an a
 - Steamed Dragon and Dried Apple, Glass of Mead (1 sp)
 - Roasted Goose and Onion, Glass of Wine (4 sp)
 
-![map](The_Lovely_Tulip_Tavern.png)
-![map 2](The_Lovely_Tulip_Tavern_floor_2.png)
+![map](./images/The_Lovely_Tulip_Tavern.png)
+![map 2](./images/The_Lovely_Tulip_Tavern_floor_2.png)
 
 ## Patrons
 

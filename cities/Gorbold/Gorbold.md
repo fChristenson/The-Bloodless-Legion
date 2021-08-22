@@ -12,7 +12,7 @@ This small town is located in the woods and looks very old.  It is best-known fo
 ## Notable Places:
 - [The Greedy Trickster](./taverns/The_Greedy_Trickster.md): An elegant elven inn, decorated with monstrous skulls
 
-![map](./Gorbold.png)
+![map](./images/Gorbold.png)
 
 ## Weather
 
