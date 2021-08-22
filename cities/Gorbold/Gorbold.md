@@ -11,8 +11,6 @@ This small town is located in the woods and looks very old.  It is best-known fo
 
 ## Notable Places:
 - [The Greedy Trickster](./taverns/The_Greedy_Trickster.md): An elegant elven inn, decorated with monstrous skulls
-- The Odeum of Olaos: A two-storey stone-walled theatre, within which anything might be an illusion.
-- The Archer and Spear: A heroic commoner's inn, built within an ancient tower of rune-carved stone.
 
 ![map](./Gorbold.png)
 

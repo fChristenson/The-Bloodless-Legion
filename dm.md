@@ -2,7 +2,29 @@
 
 ## Event log
 
-### Day 0 2021-08-22
+### Day 0 - 2021-08-22
+
+#### Time
+
+20:00
+
+#### Location
+
+[The Greedy Trickster](cities/Gorbold/taverns/The_Greedy_Trickster.md)
+
+#### Weather
+
+- Description:	Rain
+- Temperature:	Moderate
+- High:	75°F (23°C)
+- Low:	62°F (16°C)
+- Relative:	Warmer than normal
+- Wind Force:	Moderate
+- Wind Speed:	12 mph (19 kph)
+- Rain: Rain reduces visibility by half, imposing a -4 penalty on Spot and Search checks. It also imposes a -4 penalty on Listen checks and ranged weapon attacks.
+
+Rain automatically extinguishes candles, torches, and similar unprotected flames. It causes protected flames, such as those of lanterns, to dance wildly and has a 50% chance to extinguish these lights.
+
 
 #### Micro quests
 
@@ -18,3 +40,4 @@
 - You knocked out a wanted cutpurse in a drunken brawl, and the thankful innkeeper has covered your lifestyle expenses. - 1100xp
 - Trick another players in to damaging their reputation - 1100xp
 - Improve another players reputation - 1100xp
+
