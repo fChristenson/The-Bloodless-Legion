@@ -7,7 +7,7 @@ It stands next to the hanfull of houses in the hamlet.
 The inn is a two storey building of half-timbered walls, with several leaded glass windows and a smooth stone floor. Accomodations consist of 2 small rooms with beds and straw mattresses.
 
 ## Innkeeper	
-The innkeeper is a short female dwarf named Ahaz.
+The innkeeper is a short female dwarf named [Ahaz](../npc/Ahaz.md).
 
 ## Menu	
 - Boiled Eggs and Soft Cheese, Tankard of Mead (8 cp)
