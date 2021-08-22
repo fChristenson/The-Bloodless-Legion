@@ -25,6 +25,13 @@
 
 Rain automatically extinguishes candles, torches, and similar unprotected flames. It causes protected flames, such as those of lanterns, to dance wildly and has a 50% chance to extinguish these lights.
 
+#### Group
+
+- [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048)
+- [Garnoc](https://www.dndbeyond.com/profile/Vildling/characters/56694364)
+- [Meitumil](https://www.dndbeyond.com/profile/Vildling/characters/56694364)
+- [Reynnis](https://www.dndbeyond.com/profile/Vildling/characters/56694364)
+
 
 #### Micro quests
 
