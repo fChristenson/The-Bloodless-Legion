@@ -34,6 +34,10 @@ Despite its strengths and weaknesses, Khaziram is most likely headed towards a a
 - 9 [Tani's Sorcerous Armory](./shops/Tanis_Sorcerous_Armory.md)
 - 10 [The Fox's Oddities](./shops/The_Foxs_Oddities.md)
 - 11 [The Nagas Arsenal](./shops/The_Nagas_Arsenal.md)
+- 12 Bridge
+- 13 Home of [Gamin Bloodgrip](npc/Gamin_Bloodgrip.md)
+- 14 Home of [Letholdus Redstream](npc/Letholdus_Redstream.md)
+- 15 Guard barracks
 
 ## Taverns
 
@@ -45,7 +49,7 @@ Despite its strengths and weaknesses, Khaziram is most likely headed towards a a
 - Trader - [The Fox's Oddities](./shops/The_Foxs_Oddities.md)
 - Weaponsmith - [The Nagas Arsenal](./shops/The_Nagas_Arsenal.md)
 - Armorer - [Tani's Sorcerous Armory](./shops/Tanis_Sorcerous_Armory.md)
-- Alchemist [Ellaloth's Magical Potions](./shops/Ellaloths_Magical_Potions.md)
+- Alchemist - [Ellaloth's Magical Potions](./shops/Ellaloths_Magical_Potions.md)
 
 ## Map
 
