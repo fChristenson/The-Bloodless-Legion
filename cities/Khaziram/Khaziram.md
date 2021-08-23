@@ -28,7 +28,7 @@ Despite its strengths and weaknesses, Khaziram is most likely headed towards a a
 - 3 [Chapel](./images/chapel.png) where [Ella Hillless](./npc/main/Ella_Hillless.md) lives
 - 4 [Gray Ministry](./Gray_Ministry.md)
 - 5 [The Melting Gentlemen](./taverns/The_Melting_Gentlemen.md)
-- 6 A statue of crystal, said to entomb the undead corpse of a necromancer. [Althalos Cromwell](./npc/main/Althalos_Cromwell.md) father [Geoffrey Cromwell](./npc/main/Geoffrey_Cromwell.md)
+- 6 A [statue of crystal](Crystal_statue.md), said to entomb the undead corpse of a necromancer. [Althalos Cromwell](./npc/main/Althalos_Cromwell.md) father [Geoffrey Cromwell](./npc/main/Geoffrey_Cromwell.md)
 - 7 [The Lovely Tulip Tavern](./taverns/The_Lovely_Tulip_Tavern.md)
 - 8 [Ellaloths Magical Potions](./shops/Ellaloths_Magical_Potions.md)
 - 9 [Tani's Sorcerous Armory](./shops/Tanis_Sorcerous_Armory.md)
