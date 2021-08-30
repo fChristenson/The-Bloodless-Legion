@@ -1,4 +1,4 @@
-# Eahtadan Runelenrin
+# Eahtadan Runelenrin - Dead
 
 ## Description
 
@@ -55,5 +55,6 @@ He has been hired to steal money from the PCs.
 
 - Can be persuaded to reveal reports about dead towns people turning in to
   https://www.dndbeyond.com/monsters?filter-type=0&filter-search=Myco&filter-cr-min=&filter-cr-max=&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=
+- [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) shot him in his bed
 
 [back](../../../../story.md)
