@@ -35,7 +35,7 @@
 - 22:00 Group waits in room
 - 22:00 Group fights Mycanoids
 - 23:00 At ministry
-- 23:01 [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) kills [Ella Hillless](./cities/Khaziram/npc/main/Ella_Hillless.md)
+- 23:01 [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) kills [Eahtadan Runelenrin](./npc/main/Eahtadan_Runelenrin.md)
 - 01:00 [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) robs Gray ministry
 - 02:00 Group camps outside city
 
