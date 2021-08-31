@@ -16,30 +16,8 @@
 - Improve another players reputation - 1100xp
 
 ## Event log
-  
-## Day 3
 
-### Weather
-- Description:	Windy
-- Temperature:	Moderate
-- High:	64°F (17°C)
-- Low:	48°F (8°C)
-- Relative:	Colder than normal
-- Wind Force:	Moderate
-- Wind Speed:	11 mph (17 kph)
-- Moderate Wind: A steady wind with a 50% chance of extinguishing candles, torches, and similar unprotected flames.
-
-#### Events
-
-- 07:00 Group wakes
-- 22:00 Group waits in room
-- 22:00 Group fights Mycanoids
-- 23:00 At ministry
-- 23:01 [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) kills [Eahtadan Runelenrin](./npc/main/Eahtadan_Runelenrin.md)
-- 01:00 [Colt Goldfinder](https://www.dndbeyond.com/profile/Fluktarn/characters/56700048) robs Gray ministry
-- 02:00 Group camps outside city
-
-## Day 4
+## Day 9
 
 ### Weather
 
@@ -54,4 +32,5 @@
 
 #### Events
 
-- 10:00 Group wakes
+- 14:00 Toox offers to drive group for 1pp per day
+- 14:00 Bree pays Toox in advance
