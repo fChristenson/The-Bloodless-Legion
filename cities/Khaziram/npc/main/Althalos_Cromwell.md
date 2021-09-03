@@ -60,4 +60,7 @@ He sometimes camps at a cave close to a waterfall when he wants to think.
 One day he heard a strange voice in his head, went inside the cave and met a strange mushroom creature.
 The creature promised that if he helped it spread it's seeds it would convince his love to get back together with him.
 
+Rey hits him with an arrow
+Rey kills Althalos
+
 [back](../../../../story.md)

@@ -61,4 +61,8 @@ She is possessed by an evil spirit who makes her do horrible things at night, wi
 
 https://www.kassoon.com/dnd/house-map-generator/1-8-100-100-493929
 
+## Notes
+
+Garnoc chokes her to death
+
 [back](../../../../story.md)
