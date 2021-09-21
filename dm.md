@@ -15,7 +15,7 @@
 
 ## Event log
 
-## Day 12
+## Day 13
 
 ### Weather
 
@@ -28,23 +28,16 @@
 - Wind Speed:	10 mph (16 kph)
 - Light Wind: A gentle breeze, having little or no game effect.
 
-- party travels to Sviredalr
-- 2021-09-02 18:07:00 - party learns colt and garnoc have something in head
-- 2021-09-02 18:08:31 - 14:00 at Tyr temple in Sviredalr
-- 2021-09-02 18:28:41 - 16:00 at scribe
-- 2021-09-02 18:33:10 - rey takes steal other player item quest
-- 2021-09-02 18:34:08 - garnoc accepts increase rep for other player quest
-- 2021-09-02 19:00:13 - colt gains rep as famous circus clown
-- 2021-09-02 19:01:14 - 17:00 at mute bean
-- 2021-09-02 19:22:06 - 19:00 party conflict
-- 2021-09-02 19:32:25 - 21:00 rey enters bean with colt sitting at the bar
-- 2021-09-02 19:36:56 - party sleeps
-- 2021-09-02 19:37:05 - 06:00 wakes
-- 2021-09-02 20:06:28 - group rents wagon from Lureene for 50gp
-- 2021-09-02 20:08:18 - 12:00 at Kaziram
-- 2021-09-02 20:16:28 - 12:00 sneaks to city
-- 2021-09-02 20:18:37 - rey cast pass without trace
-- 2021-09-02 20:19:58 - party climbs wall
-- 2021-09-02 21:02:26 - party kills Althalos and mother
-- 2021-09-02 21:08:01 - colt finds spore pouch
-- 2021-09-02 21:08:19 - 01:00 party at fay house
+- 2021-09-12 18:27:15 - garnoc and colt attacks in the night
+- 2021-09-12 18:42:49 - time 1:30
+- 2021-09-12 19:11:23 - time 06:00
+- 2021-09-12 19:57:04 - garnoc dies from head operation
+- 2021-09-12 19:57:19 - colts operations partially works
+- 2021-09-12 19:59:56 - time 08:00
+- 2021-09-12 20:07:19 - group escapes Kazhiram via waterbreathing in the river
+- 2021-09-12 20:09:54 - group make camp after failing to find cave
+- 2021-09-12 20:11:04 - time 9:00
+- 2021-09-12 20:15:24 - group find cave with camp and waterfall
+- 2021-09-12 20:25:48 - time 11:00
+- 2021-09-12 20:25:48 - Group kills Yetabrod
+
